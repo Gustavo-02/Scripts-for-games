@@ -11,7 +11,6 @@ public class SomPassos : MonoBehaviour {
     public AudioClip normal, madeira, grama, agua;
     public AudioSource emissor;
 
-
     private void Update() 
     {
         ReproduzirSomPasso();
